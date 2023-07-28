@@ -30,7 +30,7 @@ Welcome to SecureBounty, where the cybersecurity community collaborates to creat
 
 ### Getting Started
 
-Explore our repositories to find exciting projects and tools. We welcome your contributions and feedback! Please read our [CONTRIBUTING.md](link-to-contributing-file) for guidelines.
+Explore our repositories to find exciting projects and tools. We welcome your contributions and feedback! Please read our [CONTRIBUTING.md](https://github.com/SecureBounty/CONTRIBUTING.md) for guidelines.
 
 ### Let's Build a Safer Future Together!
 

@@ -1,6 +1,6 @@
 # SecureBounty - Empowering a Safer Digital World
 
-![SecureBounty Logo]([https://i.postimg.cc/QCRpsBYs/Screenshot-2023-08-01-005026.jpg])
+![SecureBounty Logo](https://i.postimg.cc/QCRpsBYs/Screenshot-2023-08-01-005026.jpg)
 
 Welcome to SecureBounty, where the cybersecurity community collaborates to create cutting-edge bug bounty and security tools. Our mission is to empower individuals and organizations with advanced solutions that enhance their defenses and contribute to a safer digital ecosystem.
 
